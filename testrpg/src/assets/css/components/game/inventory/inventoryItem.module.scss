@@ -1,0 +1,15 @@
+.inventory-item {
+    width: 5.625rem;
+    position: relative;
+    height: 5.625rem;
+    background: rgba(24, 29, 37, 0.4);
+    padding: 0.313rem;
+    border: 2px solid transparent;
+    transition: border 0.1s;
+    cursor: pointer;
+}
+
+.card-active {
+    border: 1px #4caf50 solid;
+    border-radius: 1%;
+}

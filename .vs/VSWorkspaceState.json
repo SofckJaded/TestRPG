@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\serverRPG",
+    "\\testrpg",
+    "\\testrpg\\src",
+    "\\testrpg\\src\\components",
+    "\\testrpg\\src\\components\\Game",
+    "\\testrpg\\src\\components\\Game\\main",
+    "\\testrpg\\src\\components\\Game\\main\\Inventory"
+  ],
+  "SelectedNode": "\\testrpg\\src\\components\\Game\\main\\Inventory\\inventoryItem.tsx",
+  "PreviewInSolutionExplorer": false
+}
